@@ -5,6 +5,7 @@ import math
 import numpy as np
 
 class bot():
+    '''DEPRECATED'''
     def __init__(self, team = 0, x = 0, y = 0, angle = 0):
         self.team = team
         self.x = x
